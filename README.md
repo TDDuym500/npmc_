@@ -1,2 +1,2 @@
 # Nhớ npmc quá -((
--# Chán hè rồi chỉ muốn bên npmc thôi -((
+Chán hè rồi chỉ muốn ngắm npmc thôi -((
