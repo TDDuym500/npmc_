@@ -73,7 +73,7 @@ Vega X:     🟢
 
 ---
 
-## 📥 How to Use
+### 📥 How to Use
 
 1. Copy the loader script provided below.
 2. Paste it into your trusted Roblox executor.
