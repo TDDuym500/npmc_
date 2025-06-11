@@ -1,13 +1,4 @@
-<h1 align="center">WindUI</h1> 
-
-<hr />
-
-<picture>
-    <source srcset="docs/banner-dark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="docs/banner-light.png" media="(prefers-color-scheme: light)">
-    <img src="docs/banner-light.png" alt="Lag Cat Banner">
-</picture>
-
+<h1 align="center">Lag Cat Hub</h1> 
 <hr />
 
 ### Credits:
