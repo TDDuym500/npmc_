@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJlZnJoM2R5aXZ5aWVhcDdjZWk4NjF6eHFpeHQzMGozNG01NzZ5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xIO33l7RlmLR4I/giphy.gif" width="240" alt="Galaxy Cat"/>
+  <video autoplay loop muted playsinline width="300">
+    <source src="https://user-images.githubusercontent.com/74038190/212738537-1d9dbf62-7fb6-43e4-9f14-df4a7526a3e1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <p align="center">
@@ -14,14 +17,14 @@
 
 ---
 
-## 🌌 Giới Thiệu
+## 🐾 Giới Thiệu
 
-> 🐾 **Lag Cat Hub** là trung tâm điều khiển vũ trụ Roblox – nơi hội tụ của tự động hóa, tối ưu hóa và sự mượt mà đỉnh cao.  
-> 🔮 Được tạo ra để **siêu mượt**, **siêu đẹp**, và **siêu bá đạo**.
+> **Lag Cat Hub** không chỉ là một Hub — nó là phong cách.  
+> Được thiết kế để **mượt**, **nhẹ**, **cực kỳ đẹp**, và **tối ưu mọi thứ** bạn cần trong Roblox.
 
 ---
 
-## 🧠 Credits
+## 👑 Credits
 
 | 🎖️ Role       | 💎 Name   |
 |---------------|----------|
