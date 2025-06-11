@@ -1,5 +1,7 @@
 --[[
-    Anti Cheat by . 
+
+    Anti Cheat by .
+
 ]]
 
 local AntiCheat = "Memaybeo" -- Local để chạy hàm
