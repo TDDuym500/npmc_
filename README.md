@@ -39,7 +39,7 @@ It’s a **modular script hub**, designed for flexibility and built to grow.
 
 ## 🔥 Support Execute
 
-🖥️ Windows
+### 🖥️ Windows
 Synapse Z:   🟢
 Seliware:    🟢
 Wave:        🟢
@@ -57,7 +57,9 @@ Ronix:       🟢
 Velocity:    🟢
 Posstasium:  🟢
 Cryptic:     🟢
-📱 Mobile
+
+### 📱 Mobile
+
 Trigon:     🟢
 Arceus X:   🟢
 Krnl:       🟢
