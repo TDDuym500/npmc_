@@ -1,5 +1,5 @@
 --[[
-    Source code is from Banana Cat Hub and Maru Hub.
+    Anti Cheat by . 
 ]]
 
 local AntiCheat = "Memaybeo" -- Local để chạy hàm
