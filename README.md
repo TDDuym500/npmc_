@@ -37,42 +37,6 @@ It’s a **modular script hub**, designed for flexibility and built to grow.
 
 ---
 
-## 🔥 Support Execute
-
-### 🖥️ Windows
-Synapse Z:   🟢
-Seliware:    🟢
-Wave:        🟢
-AWP.GG:      🟢
-Argon:       🟢
-Swift:       🟢
-Nezur:       🟢
-Solara:      🔴
-Xeno:        🔴
-Luna:        🟢
-Seriality:   🟢
-Atlantis:    🟢
-Celery:      🔴
-Ronix:       🟢
-Velocity:    🟢
-Posstasium:  🟢
-Cryptic:     🟢
-
-### 📱 Mobile
-
-Trigon:     🟢
-Arceus X:   🟢
-Krnl:       🟢
-Codex X:    🟢
-Fluxus:     🟢
-Cryptic:    🟢
-Delta:      🟢
-Illusion:   🟢
-Nebula:     🟢
-Vega X:     🟢
-
----
-
 ### 📥 How to Use
 
 1. Copy the loader script provided below.
@@ -85,8 +49,8 @@ Vega X:     🟢
 
 | Role         | Name      |
 |--------------|-----------|
-| 🧠 Developer | **Kheng** |
-| 🎨 Design    | **.**     |
+| 🧠 Developer | **.** |
+| 🤝 Supporter | **Kheng**     |
 
 Big thanks to all testers, contributors, and users who help keep the hub growing! ❤️
 
