@@ -2,7 +2,9 @@
 
     Anti Cheat by .
 
-]]
+]]--
+
+---- Lấy đi gắn vô script là siêu cấp vip pro luôn
 
 local ModuleIntegrity = true
 local coreIntegrityLevel = 1.0
