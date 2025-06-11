@@ -32,9 +32,42 @@ It’s a **modular script hub**, designed for flexibility and built to grow.
 - Support for more game genres (simulators, RPGs, PvP, and more)
 - Expansion of script libraries for trending games
 - Quality-of-life tools not limited to combat or farming
-- Smarter, adaptive automation features
 
-> Think of it as your **universal scripting companion** — always evolving to fit the future of Roblox. 🚀
+---
+
+---
+
+## 🔥 Support Execute
+
+🖥️ Windows
+Synapse Z:   🟢
+Seliware:    🟢
+Wave:        🟢
+AWP.GG:      🟢
+Argon:       🟢
+Swift:       🟢
+Nezur:       🟢
+Solara:      🔴
+Xeno:        🔴
+Luna:        🟢
+Seriality:   🟢
+Atlantis:    🟢
+Celery:      🔴
+Ronix:       🟢
+Velocity:    🟢
+Posstasium:  🟢
+Cryptic:     🟢
+📱 Mobile
+Trigon:     🟢
+Arceus X:   🟢
+Krnl:       🟢
+Codex X:    🟢
+Fluxus:     🟢
+Cryptic:    🟢
+Delta:      🟢
+Illusion:   🟢
+Nebula:     🟢
+Vega X:     🟢
 
 ---
 
@@ -43,8 +76,6 @@ It’s a **modular script hub**, designed for flexibility and built to grow.
 1. Copy the loader script provided below.
 2. Paste it into your trusted Roblox executor.
 3. Let the magic begin — a UI will appear in-game.
-
-> ✅ Best used with Synapse X, Fluxus, Delta, or other stable executors.
 
 ---
 
