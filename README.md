@@ -2,9 +2,8 @@
 <hr />
 
 ### Credits:
-- [Dawid-Scripts](https://github.com/dawid-scripts) (Colorpicker)
-- [Lucide-Icons](https://github.com/lucide-icons/lucide) (Icons)
+- .
+- Kheng
 
 
-> [Discord Server](https://discord.gg/Q6HkNG4vwP)
-> [Documentation](https://Footagesus.github.io/WindUI-Docs/)
+> [Discord Server](https://discord.gg/KTG45Zv58j)
