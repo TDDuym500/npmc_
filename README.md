@@ -16,14 +16,10 @@ Whether you're farming, flying, teleporting, or just flexing your power — Lag 
 
 ## 🧩 Features
 
-- 🛸 Smooth, stable flying system with camera lock
-- 🎯 NPC and player aimbot (customizable)
-- 📦 Huge command & script warehouse
-- 🔧 Toggle-based UI with stunning Fluent design
-- 🧱 Adjustable hitbox (with size input & visuals)
-- ⚔️ Intelligent auto-farming logic
-- 🌐 Auto server switch, anti-idle & more
-- 📈 Regular updates from devs to keep it fresh
+- 📜 Add more scripts
+- 🔧 Great interface, no lag, easy to use.
+- ⚡ Improve script loading speed.
+- 
 
 ---
 
