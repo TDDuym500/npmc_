@@ -2,15 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F78CB4&center=true&vCenter=true&width=435&lines=Lag+Cat+Hub;Lag+Cat+Hub"/>
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF2dGp4YmQ3Z3B1ODRqY3R1dGp3MXZ4YjQ2YmFkNXc2bmE0dmFrMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zy7JbPZZgvdONFuvG1/giphy.gif" width="220" alt="Lag Cat Gif" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Roblox-Utility%20Hub-F78CB4?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/lagcathub/hub?style=for-the-badge&color=F7A8B8"/>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4?style=for-the-badge"/>
-</p>
 
 ---
 
