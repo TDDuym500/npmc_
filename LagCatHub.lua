@@ -2,7 +2,7 @@
 --[[
 
 Welcome to Lag Cat Hub
-Discord : https://discord.gg/ZKjAJvYj
+Discord : https://discord.gg/KTG45Zv58j
 Note : Maybe lag on some machines when running, sorry I will find a way to make the script less laggy.
 
 ]]--
