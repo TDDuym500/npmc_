@@ -1,20 +1,30 @@
-<h1 align="center">🐱 Lag Cat Hub 🐱</h1>
+<h1 align="center">✨🐾 Lag Cat Hub 🐾✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE5bXRsczE1d2cybHRxeWwxMXo0emc4Z3BvM3dlY3Y4ajlxeXBuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="160" alt="Lag Cat" />
 </p>
 
 ---
 
-### ✨ Credits:
-- 🧠 Developer: `Kheng`
-- 💬 Special thanks: `.`
+<h3 align="center">🚀 The Ultimate Roblox Utility Hub - Simple, Smooth, Powerful 🚀</h3>
 
 ---
 
-### 🔗 Join Us:
-👉 [Discord Server](https://discord.gg/KTG45Zv58j)
+### 🧾 Credits
+- 👑 Devoloper: **.**
+- 💡 Helper: **Kheng**
 
 ---
 
-> *Made with ❤️ by Lag Cat Team*
+### 🌐 Community
+> 🎉 Join our Discord to get updates, support, and share your experience!
+
+<p align="center">
+  <a href="https://discord.gg/KTG45Zv58j">
+    <img src="https://img.shields.io/discord/KTG45Zv58j?label=Join%20Discord&logo=discord&style=for-the-badge&color=5865F2" alt="Discord">
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Built with ❤️ by the Lag Cat Team. Stay smooth, stay cool.</i></p>
