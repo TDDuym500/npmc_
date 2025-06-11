@@ -19,7 +19,6 @@ Whether you're farming, flying, teleporting, or just flexing your power — Lag 
 - 📜 Add more scripts
 - 🔧 Great interface, no lag, easy to use.
 - ⚡ Improve script loading speed.
-- 
 
 ---
 
