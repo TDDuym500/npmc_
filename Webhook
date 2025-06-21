@@ -1,4 +1,9 @@
 
+--[[
+
+Định skid cái j hay muốn xem j :))
+
+]]--
 
 local url = "https://discord.com/api/webhooks/1385874031747666070/5BfmgdyHwO9QcUgR5RecEldTzuQyfkylEGhQhAqanzyPQn6AAtv9lmO5q9ymJ6mN5u4l"
 print(url)
