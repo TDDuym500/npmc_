@@ -1,20 +1,5 @@
-getgenv().Mode = "OneClick"
-getgenv().Setting = {
-["Team"] = "Pirates", -- Options "Pirates", "Marines"
-["FucusOnLevel"] = true,
-["Fruits"] = { -- setting for fruits u want
-["Primary"] = { -- if current fruit is not in this list, eat/buy
-"Dragon-Dragon",
--- u can configs add mores/remove and must end with , (comma symbol)
-},
-["Normal"] = { -- it just a normal fruit list
-"Dragon-Dragon",
--- u can configs add mores/remove and must end with , (comma symbol)
-}
--- run this for get all fruit name `local t={};for _,v in pairs(game.ReplicatedStorage.Remotes.CommF_:InvokeServer("GetFruits"))do table.insert(t,`"{v.Name}"`)end;setclipboard(table.concat(t, "\n"))`
-},
-["IdleCheck"] = 150, -- every (x) seconds if not moving rejoin
-};
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/QuartyzScript/main/Loader.lua"))()
+getgenv().Key = "MARU-CI4O3-X7PH-XQEF-K3S3D-TNIRD"
+getgenv().id = "1310130803673661471"
+getgenv().Script_Mode = "Kaitun_Script"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TDDuym500/Duym500/refs/heads/main/FastAttack.lua"))()
