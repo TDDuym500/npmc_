@@ -6,4 +6,4 @@ pcall(function()
         end
     end)
 end)
-loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/0108d650b1dc878e"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/VxezeHubMain"))()
