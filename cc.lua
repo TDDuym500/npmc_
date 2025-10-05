@@ -6,4 +6,4 @@ pcall(function()
         end
     end)
 end)
-loadstring(game:HttpGet("https://get.nathub.xyz/loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dy1zn4t/NatHub/refs/heads/main/loader"))();
