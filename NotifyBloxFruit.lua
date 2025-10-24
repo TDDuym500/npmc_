@@ -1,1 +1,1 @@
-.
+has been deleted
