@@ -1,6 +1,4 @@
-repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
-
-getgenv().AutoExecute = true
+getgenv().AutoExecute = false
 
 local MainScript = "https://raw.githubusercontent.com/TDDuym500/npmc_/refs/heads/main/MainLoader.lua"
 
