@@ -2,7 +2,7 @@ repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
 
 getgenv().AutoExecute = true
 
-local MainScript = "https://raw.githubusercontent.com/TDDuym500/npmc_/refs/heads/main/LagCatMain.lua"
+local MainScript = "https://raw.githubusercontent.com/TDDuym500/npmc_/refs/heads/main/MainLoader.lua"
 
 local GameList = {
     ["2753915549"] = "Games/LagCatBloxFruit.lua",
